@@ -1,0 +1,33 @@
+.progress2{
+    width : 0px ;
+    height : 40px ;
+    background-color: darkorange ;
+ /*   position : absolute ;*/
+    
+}
+video{
+    width : 300px ;
+    height : 300px ;
+    position : relative ;
+}
+.container{
+    display : flex ;
+    flex-wrap : wrap ;
+    /*width : 300px ;*/
+    background-color:lightgreen ;
+}
+.container2{
+    display : flex ;
+    flex-wrap : wrap ;
+    width : 60px ;
+    background-color:lightgreen ;
+}
+/*
+#btn1{
+    background : fixed ;
+    z-index: -1;
+}#btn2{
+    background : fixed ;
+    z-index: 3;
+}
+*/
